@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Douglas Nunes
+<h1>- 👋 Hi, I’m Douglas Nunes</h1>
 
 <div align="center">
   <a href="https://github.com/DouglaxN">
