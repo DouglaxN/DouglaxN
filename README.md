@@ -1,4 +1,4 @@
-<img align="right" src="./images/user.png" width="250"/>
+<img align="right" src="user.png" width="250"/>
 
 # Hi 👋, I'm Douglas Nunes
 
