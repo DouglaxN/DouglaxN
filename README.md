@@ -2,6 +2,7 @@
 
 # Hi 👋, I'm Douglas Nunes
 
+Computer technician - IFRN
 Information Technology Student - UFRN
 
 [![Instagram Badge](https://img.shields.io/badge/-Douglas_Nunes-68AAC8?style=flat-square&labelColor=68AAC8&logo=instagram&logoColor=white)](https://www.instagram.com/dougxns_/)
