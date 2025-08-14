@@ -2,13 +2,66 @@
 
 # Hi 👋, I'm Douglas Nunes
 
-Computer technician - IFRN <br>
-Information Technology Student - UFRN
-
 [![Instagram Badge](https://img.shields.io/badge/-Douglas_Nunes-68AAC8?style=flat-square&labelColor=68AAC8&logo=instagram&logoColor=white)](https://www.instagram.com/dougxns_/)
 [![Linkedin Badge](https://img.shields.io/badge/-Douglas_Nunes-68AAC8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/douglas/)
 [![GMail Badge](https://img.shields.io/badge/douglas.devx@gmail.com-68AAC8?style=flat-square&labelColor=68AAC8&logo=gmail&logoColor=fff)](mailto:douglas.devx@gmail.com)
 
-Passionate about science and technology, I love seeing the world and being with people.
+---
 
-Graduated as a computer technician (CANG/IFRN) and information technology student (IMD/UFRN).
+## 🎓 About Me
+- 💻 **Computer Technician** — CANG/IFRN  
+- 🎓 **BSc Student** in Information Technology — IMD/UFRN  
+- 🔬 **Scientific Initiation (IC)** in Bioinformatics at **[@dalmolingroup](https://dalmolingroup.org)**  
+- 🍏 **Nextflow Ambassador**  
+- 🌱 Currently learning **Ribosome Profiling (Ribo-Seq) Analysis**  
+
+---
+
+## 📚 Courses I Contributed To
+| 📘 Course | 🔗 Link |
+|-----------|--------|
+| Introduction to Systems Biology | [View](https://example.com) |
+| Introduction to R | [View](https://example.com) |
+| Metagenome | [View](https://example.com) |
+| GeneBridge | [View](https://example.com) |
+
+---
+
+## 🔬 Research Interests
+<div align="center">
+
+| **Field** | **Focus Areas** |
+|-----------|-----------------|
+| 🧬 **Transcriptomics** | Therapeutic Transcriptomics |
+| 🌊 **Metagenomics** | Environmental Applications |
+| 🧩 **Evolution of Biological Systems** | Evolutionary Trajectory of Genes |
+
+</div>
+
+---
+
+## 🛠️ Tech Stack
+<p align="center">
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nextflow-43B02A?style=for-the-badge&logo=nextflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Conda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" />
+  <img src="https://img.shields.io/badge/Quarto-3E75C3?style=for-the-badge&logo=quarto&logoColor=white" />
+  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" />
+</p>
+
+---
+
+<p align="center">
+  <em>“Turning biological data into knowledge.”</em>
+</p>
