@@ -11,30 +11,17 @@
 ## 🎓 About Me
 - 💻 **Computer Technician** — CANG/IFRN  
 - 🎓 **BSc Student** in Information Technology — IMD/UFRN  
-- 🔬 **Scientific Initiation (IC)** in Bioinformatics at **[@dalmolingroup](https://dalmolingroup.org)**  
-- 🍏 **Nextflow Ambassador**  
-- 🌱 Currently learning **Ribosome Profiling (Ribo-Seq) Analysis**  
-
----
-
-## 📚 Courses I Contributed To
-| 📘 Course | 🔗 Link |
-|-----------|--------|
-| Introduction to Systems Biology | [View](https://example.com) |
-| Introduction to R | [View](https://example.com) |
-| Metagenome | [View](https://example.com) |
-| GeneBridge | [View](https://example.com) |
-
+- 🔬 **Scientific Initiation (IC)** in Bioinformatics at **[@dalmolingroup](https://dalmolingroup.org)**
+  
 ---
 
 ## 🔬 Research Interests
 <div align="center">
 
-| **Field** | **Focus Areas** |
-|-----------|-----------------|
-| 🧬 **Transcriptomics** | Therapeutic Transcriptomics |
-| 🌊 **Metagenomics** | Environmental Applications |
-| 🧩 **Evolution of Biological Systems** | Evolutionary Trajectory of Genes |
+## 🔬 Research Interests
+- 🧬 Currently learning **Transcriptomics**
+- 🧠 Exploring different areas of Bioinformatics
+- 🔍 Interested in how biological data can reveal new discoveries
 
 </div>
 
@@ -46,7 +33,6 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nextflow-43B02A?style=for-the-badge&logo=nextflow&logoColor=white" />
   <img src="https://img.shields.io/badge/Conda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" />
   <img src="https://img.shields.io/badge/Quarto-3E75C3?style=for-the-badge&logo=quarto&logoColor=white" />
   <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
