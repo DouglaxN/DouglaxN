@@ -16,9 +16,6 @@
 ---
 
 ## 🔬 Research Interests
-<div align="center">
-
-## 🔬 Research Interests
 - 🧬 Currently learning **Transcriptomics**
 - 🧠 Exploring different areas of Bioinformatics
 - 🔍 Interested in how biological data can reveal new discoveries
