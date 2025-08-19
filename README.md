@@ -9,7 +9,6 @@
 - 💻 **Computer Technician** — CANG/IFRN  
 - 🎓 **BSc Student** in Information Technology — IMD/UFRN  
 - 🔬 **Scientific Initiation (IC)** in Bioinformatics at **[@dalmolingroup](https://dalmolingroup.org)**
-  
 ---
 
 ## 🔬 Research Interests
