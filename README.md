@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Douglas Nunes
 [![Instagram Badge](https://img.shields.io/badge/-Douglas_Nunes-68AAC8?style=flat-square&labelColor=68AAC8&logo=instagram&logoColor=white)](https://www.instagram.com/dougxns_/)
-[![Linkedin Badge](https://img.shields.io/badge/-Douglas_Nunes-68AAC8?style=flat-square&logo=Linkedin&logoColor=white)]([(https://www.linkedin.com/in/douglas-nunes-da-silva-78a95319b/))]
+[![Linkedin Badge](https://img.shields.io/badge/-Douglas_Nunes-68AAC8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/douglas-nunes-da-silva-78a95319b/)
 [![GMail Badge](https://img.shields.io/badge/douglas.devx@gmail.com-68AAC8?style=flat-square&labelColor=68AAC8&logo=gmail&logoColor=fff)](mailto:douglas.devx@gmail.com)
 
 ## 🎓 About Me
