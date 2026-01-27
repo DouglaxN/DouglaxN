@@ -9,16 +9,13 @@
 - 💻 **Computer Technician** — CANG/IFRN  
 - 🎓 **BSc Student** in Information Technology — IMD/UFRN  
 - 🔬 **Scientific Initiation (IC)** in Bioinformatics at **[@dalmolingroup](https://dalmolingroup.imd.ufrn.br)**
----
+
 
 ## 🔬 Research Interests
 - 🧬 Currently learning **Transcriptomics**
 - 🧠 Exploring different areas of Bioinformatics
 - 🔍 Interested in how biological data can reveal new discoveries
 
-</div>
-
----
 
 ## 📊 GitHub Stats
 <p align="center">
