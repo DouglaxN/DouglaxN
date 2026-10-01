@@ -9,7 +9,7 @@
 
 ## 🎓 About Me
 - 💼 **Data Science & AI Intern** at **SEFAZ-RN**
-- 🔬 **Scientific Initiation (IC)** in Bioinformatics at **BioME / [@dalmolingroup](https://dalmolingroup.imd.ufrn.br)**
+- 🔬 **Scientific Initiation (IC)** in Bioinformatics at **BioME**
 - 🎓 **BSc Student** in Information Technology — **IMD / UFRN**
 - 💻 **Computer Technician** — **CANG / IFRN**
 
