@@ -1,9 +1,3 @@
-Salvei uma cópia do arquivo na sua máquina em:  
-📁 [`README_PERFIL_GITHUB.md`](file:///C:/Users/13266830474/.gemini/antigravity/scratch/README_PERFIL_GITHUB.md)
-
-Aqui está o código completo pronto para você copiar e colar direto no `README.md` do seu repositório:
-
-```markdown
 <div align="center">
 
 # Douglas Nunes
