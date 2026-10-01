@@ -1,45 +1,40 @@
-<img align="right" src="user.png" width="220"/>
+# Douglas Nunes
 
-# Hi 👋, I'm Douglas Nunes
+**Software & Data Engineer** specializing in **Multi-Agent AI Systems** and **Biological Data Science**.  
+Currently designing autonomous state-machine workflows at **SEFAZ-RN** and building scalable transcriptomic pipelines at **BioME / UFRN**.
 
-[![Linkedin Badge](https://img.shields.io/badge/-Douglas_Nunes-68AAC8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/douglas-nunes-da-silva/)
-[![Lattes Badge](https://img.shields.io/badge/-Lattes_CV-68AAC8?style=flat-square&logo=academia&logoColor=white)](http://lattes.cnpq.br/8276138975780850)
-[![GMail Badge](https://img.shields.io/badge/douglas.nunes.132@ufrn.edu.br-68AAC8?style=flat-square&labelColor=68AAC8&logo=gmail&logoColor=white)](mailto:douglas.nunes.132@ufrn.edu.br)
-[![Instagram Badge](https://img.shields.io/badge/-dougxns__-68AAC8?style=flat-square&labelColor=68AAC8&logo=instagram&logoColor=white)](https://www.instagram.com/dougxns_/)
+[LinkedIn](https://linkedin.com/in/douglas-nunes-da-silva) • [Curriculum Vitae](https://douglaxn.github.io/curriculo) • [Lattes (CNPq)](http://lattes.cnpq.br/8276138975780850) • [Email](mailto:douglas.nunes.132@ufrn.edu.br)
 
-## 🎓 About Me
-- 💼 **Data Science & AI Intern** at **SEFAZ-RN** (State Treasury Department)  
-- 🔬 **Scientific Initiation (IC)** in Bioinformatics at **BioME / [@dalmolingroup](https://dalmolingroup.imd.ufrn.br)**  
-- 🎓 **BSc Student** in Information Technology — **IMD / UFRN**  
-- 💻 **Computer Technician** — **CANG / IFRN**  
+---
 
-## ⚡ What I Do
-- 🤖 Building **Multi-Agent AI Systems** with **LangGraph** & **RAG** (ChromaDB)
-- 🧬 Automating large-scale **Transcriptomics & RNA-seq** pipelines with **Nextflow** & **R**
-- 🚀 Developing scalable RESTful microservices with **Python (FastAPI, Flask)** & **Docker**
+### 🏛️ Engineering Focus & Production Work
 
-## 💻 Tech Stack
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangGraph-FF6F00?style=flat-square" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nextflow-00C49F?style=flat-square" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-</p>
+* **Autonomous Multi-Agent Architectures (SEFAZ-RN):**
+  Architected decoupled microservices using *Facade* and *Factory* design patterns to orchestrate specialized agents (**Sofia**, **Odin**, **Talita**) via **LangGraph**. Designed with finite state machines, automatic version fallbacks, distributed session memory (**Redis**), and semantic retrieval engines (**ChromaDB RAG**).
 
-## 📊 GitHub Stats
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=DouglaxN&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DouglaxN&layout=compact&theme=radical&langs_count=6" />
-</p>
+* **High-Throughput Biological Data Pipelines (BioME / UFRN):**
+  Developing automated, reproducible pipelines in **Nextflow**, **R**, and **Shell Script** for large-scale RNA-seq data processing and gene regulatory network reconstruction in high-performance computing (HPC) environments.
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DouglaxN/DouglaxN/output/github-contribution-grid-snake-dark.svg">
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/DouglaxN/DouglaxN/output/github-contribution-grid-snake.svg">
-  </picture>
-</p>
+* **Production NLP & Data Engineering:**
+  Building low-latency RESTful APIs (**FastAPI**, **Flask-RESTX**) and serving text classification pipelines (**FastText**, **TensorFlow/Keras**) with edge data sanitization and LGPD guardrails.
+
+---
+
+### 🛠️ Core Technical Arsenal
+
+* **AI & Retrieval:** LangGraph, LangChain, ChromaDB, RAG Architectures, OpenAI / DeepSeek APIs.
+* **Backend & Systems:** Python (FastAPI, Flask), PHP (Laravel), Java (OOP/Spring Boot fundamentals), RESTful APIs, WebSockets.
+* **Data & Storage:** PostgreSQL, MySQL, Oracle DB, Redis (caching & session), SQL query modeling.
+* **Pipelines & Infrastructure:** Nextflow, Apache Airflow, Docker, Docker Compose, Linux/HPC, Git/GitHub.
+
+---
+
+### ⚙️ Engineering Principles
+
+1. **Architecture over ad-hoc scripts:** Explicit state management, decoupled responsibilities, and graceful fallbacks over brittle monoliths.
+2. **Reproducibility by design:** Isolated runtime environments with Docker, deterministic data pipelines with Nextflow, and continuous code quality practices.
+3. **Security at the edge:** Input/output guardrails and automated data anonymization for sensitive public-sector data.
+
+---
+
+<sub>Natal, RN — Brazil • BSc in Information Technology (IMD / UFRN)</sub>
