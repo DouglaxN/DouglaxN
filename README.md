@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- HERO BANNER ONDULADO (PALETA DO SEU CURRÍCULO) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,40:1e3a8a,100:2563eb&height=210&section=header&text=Douglas%20Nunes&fontSize=46&fontAlignY=36&desc=AI%20%26%20Multi-Agent%20Systems%20%E2%80%A2%20Biological%20Data%20Science&descAlignY=58&descSize=17&fontColor=ffffff" width="100%"/>
+<!-- HERO BANNER COM ONDAS MODERNAS -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,45:1d4ed8,100:2563eb&height=220&section=header&text=Douglas%20Nunes&fontSize=48&fontAlignY=36&desc=AI%20%26%20Multi-Agent%20Systems%20%7C%20Biological%20Data%20Science&descAlignY=58&descSize=18&fontColor=ffffff" width="100%"/>
 
 <!-- BOTÕES DE CONTATO ESTILIZADOS -->
 <p align="center">
@@ -12,17 +12,17 @@
 </p>
 
 <p align="center">
-  <sub>📍 <b>Natal/RN — Brasil</b> &nbsp;•&nbsp; 🎓 <b>IMD / UFRN</b> &nbsp;•&nbsp; 💻 <b>IFRN</b> &nbsp;•&nbsp; 🏛️ <b>SEFAZ-RN</b></sub>
+  <sub>📍 <b>Natal, RN — Brasil</b> &nbsp;•&nbsp; 🎓 <b>IMD / UFRN</b> &nbsp;•&nbsp; 💻 <b>IFRN</b> &nbsp;•&nbsp; 🏛️ <b>SEFAZ-RN</b></sub>
 </p>
 
 </div>
 
 ---
 
-### 📋 Sobre Mim
+### ✦ Sobre Mim
 
 > [!NOTE]
-> Graduando em **Tecnologia da Informação (IMD/UFRN)** e Técnico em TI pelo **IFRN**. Atuo como **Estagiário em Ciência de Dados e IA na Secretaria de Estado da Tributação (SEFAZ-RN)**, desenvolvendo arquiteturas multiagentes com **LangGraph**, sistemas de busca semântica **RAG** e APIs em Python com **Docker**. Como **Pesquisador de Iniciação Científica (PIBIC) no BioME/UFRN**, construo pipelines reprodutíveis em **Nextflow** e **R** para análise transcriptômica (*RNA-seq*) de larga escala.
+> Graduando em **Tecnologia da Informação (IMD/UFRN)** e Técnico em TI pelo **IFRN**. Atuo como **Estagiário em Ciência de Dados e IA na SEFAZ-RN**, desenvolvendo arquiteturas multiagentes com **LangGraph**, sistemas de busca semântica **RAG** e APIs em Python com **Docker**. Como **Pesquisador de Iniciação Científica (PIBIC) no BioME/UFRN**, construo pipelines reprodutíveis em **Nextflow** e **R** para análise transcriptômica (*RNA-seq*) de larga escala.
 
 ---
 
@@ -30,93 +30,106 @@
 
 <table width="100%">
   <tr>
-    <td width="33%" valign="top">
-      <img src="https://img.shields.io/badge/Agente_Sofia-Telegram_Bot-2563eb?style=for-the-badge&logo=telegram&logoColor=white" width="100%" /><br/><br/>
-      Atendimento a motoristas em postos fiscais via Telegram com leitura de QR Code em documentos fiscais e áudio.<br/><br/>
-      <code>Telegram</code> <code>QR Code</code> <code>LangGraph</code> <code>Docker</code>
+    <td width="33%" align="center" valign="top">
+      <img src="https://img.shields.io/badge/Agente_Sofia-2563eb?style=for-the-badge&logo=telegram&logoColor=white" width="100%" /><br/><br/>
+      <img src="https://skillicons.dev/icons?i=python,docker,bash&theme=dark" height="36" /><br/><br/>
+      <p align="left">Atendimento a motoristas em postos fiscais via Telegram com leitura de QR Code em documentos fiscais e áudio.</p>
+      <code>Telegram</code> <code>LangGraph</code> <code>QR Code</code>
     </td>
-    <td width="33%" valign="top">
-      <img src="https://img.shields.io/badge/Agente_Odin-Mattermost-0f172a?style=for-the-badge&logo=mattermost&logoColor=white" width="100%" /><br/><br/>
-      Suporte a servidores via Mattermost com buscas automáticas de chamados e processos via <i>tool-calling</i>.<br/><br/>
-      <code>Mattermost</code> <code>Tool-Calling</code> <code>Citsmart</code> <code>Docker</code>
+    <td width="33%" align="center" valign="top">
+      <img src="https://img.shields.io/badge/Agente_Odin-0f172a?style=for-the-badge&logo=mattermost&logoColor=white" width="100%" /><br/><br/>
+      <img src="https://skillicons.dev/icons?i=python,docker,redis&theme=dark" height="36" /><br/><br/>
+      <p align="left">Suporte a servidores via Mattermost com buscas automáticas de chamados e processos via <i>tool-calling</i>.</p>
+      <code>Mattermost</code> <code>Tool-Calling</code> <code>Citsmart</code>
     </td>
-    <td width="33%" valign="top">
-      <img src="https://img.shields.io/badge/Agente_Talita-Portal_UVT-1d4ed8?style=for-the-badge&logo=openai&logoColor=white" width="100%" /><br/><br/>
-      Assistente do Portal UVT para dúvidas sobre notas e ICMS com RAG e direcionamento ao Fale Conosco.<br/><br/>
-      <code>Portal UVT</code> <code>RAG</code> <code>ChromaDB</code> <code>LangGraph</code>
+    <td width="33%" align="center" valign="top">
+      <img src="https://img.shields.io/badge/Agente_Talita-1d4ed8?style=for-the-badge&logo=openai&logoColor=white" width="100%" /><br/><br/>
+      <img src="https://skillicons.dev/icons?i=python,flask,redis&theme=dark" height="36" /><br/><br/>
+      <p align="left">Assistente do Portal UVT para dúvidas sobre notas e ICMS com RAG semântico e direcionamento ao Fale Conosco.</p>
+      <code>Portal UVT</code> <code>RAG</code> <code>ChromaDB</code>
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
-      <img src="https://img.shields.io/badge/Sistema_Agentes-Arquitetura-3b82f6?style=for-the-badge&logo=fastapi&logoColor=white" width="100%" /><br/><br/>
-      Arquitetura em microsserviços usando padrões <b>Facade</b> e <b>Factory</b>, grafos LangGraph com fallback resiliente e Redis.<br/><br/>
-      <code>Microsserviços</code> <code>LangGraph</code> <code>Redis</code> <code>MLflow</code>
+    <td width="33%" align="center" valign="top">
+      <img src="https://img.shields.io/badge/Sistema_Agentes-3b82f6?style=for-the-badge&logo=fastapi&logoColor=white" width="100%" /><br/><br/>
+      <img src="https://skillicons.dev/icons?i=fastapi,redis,docker&theme=dark" height="36" /><br/><br/>
+      <p align="left">Arquitetura em microsserviços usando padrões <b>Facade</b> e <b>Factory</b>, grafos LangGraph com fallback resiliente e Redis.</p>
+      <code>Microsserviços</code> <code>LangGraph</code> <code>MLflow</code>
     </td>
-    <td width="33%" valign="top">
-      <img src="https://img.shields.io/badge/API_Talita-Motor_NLP-6366f1?style=for-the-badge&logo=tensorflow&logoColor=white" width="100%" /><br/><br/>
-      Microsserviço com rede neural profunda (Keras/TensorFlow) e normalização de texto para classificar intenções.<br/><br/>
-      <code>TensorFlow</code> <code>Keras</code> <code>NLTK</code> <code>Flask</code>
+    <td width="33%" align="center" valign="top">
+      <img src="https://img.shields.io/badge/API_Talita-6366f1?style=for-the-badge&logo=tensorflow&logoColor=white" width="100%" /><br/><br/>
+      <img src="https://skillicons.dev/icons?i=tensorflow,flask,python&theme=dark" height="36" /><br/><br/>
+      <p align="left">Microsserviço com rede neural profunda (Keras/TensorFlow) e normalização de texto para classificar intenções.</p>
+      <code>TensorFlow</code> <code>Keras</code> <code>NLTK</code>
     </td>
-    <td width="33%" valign="top">
-      <img src="https://img.shields.io/badge/API_Caixa_Entrada-Data_Pipeline-0ea5e9?style=for-the-badge&logo=pandas&logoColor=white" width="100%" /><br/><br/>
-      Pipeline para limpeza de dados e classificação automática de mensagens do canal Fale Conosco com FastText.<br/><br/>
-      <code>FastText</code> <code>Pandas</code> <code>Pipeline</code> <code>Flask</code>
+    <td width="33%" align="center" valign="top">
+      <img src="https://img.shields.io/badge/API_Caixa-0ea5e9?style=for-the-badge&logo=pandas&logoColor=white" width="100%" /><br/><br/>
+      <img src="https://skillicons.dev/icons?i=python,pandas,flask&theme=dark" height="36" /><br/><br/>
+      <p align="left">Pipeline para limpeza de dados e classificação automática de mensagens do canal Fale Conosco com FastText.</p>
+      <code>FastText</code> <code>Pandas</code> <code>Pipeline</code>
     </td>
   </tr>
 </table>
 
 ---
 
-### 💼 Experiência Profissional e de Pesquisa
-
-* 🏛️ **SEFAZ | RN — Secretaria de Estado da Tributação**  
-  *Fev/2026 – Presente* • **Estagiário em Ciência de Dados e Inteligência Artificial** (Natal/RN)  
-  * Atuação no desenvolvimento de soluções de Inteligência Artificial, automação de processos e análise de dados.
-  * Construção de arquiteturas multiagentes e sistemas RAG com **Python, LangGraph, LangChain** e banco vetorial **ChromaDB**.
-  * Desenvolvimento de microsserviços RESTful com **Flask-RESTX e FastAPI**, documentação OpenAPI/Swagger e sessão em **Redis**.
-  * Containerização de ambientes com **Docker e Docker Compose**, controle de versão com **Git/GitHub** e testes de software.
-
-* 🧬 **BioME | UFRN — Laboratório de Bioinformática**  
-  *Set/2025 – Ago/2026* • **Bolsista de Iniciação Científica (PIBIC / PROPESQ)** (Natal/RN)  
-  * **Projeto PIA21320-2023:** Análise de transcriptômica (*RNA-seq*) e redes biológicas, desenvolvendo pipelines em Nextflow, R e Shell (Orientador: Prof. Rodrigo Dalmolin).
-
-* 🧬 **BioME | UFRN — Laboratório de Bioinformática**  
-  *Jun/2024 – Jan/2025* • **Bolsista de Iniciação Científica (PIBIC / PROPESQ)** (Natal/RN)  
-  * **Projeto PIT20207-2022:** Apoio no estabelecimento e manutenção de ambientes computacionais e ferramentas para bioinformática (Orientador: Prof. Jorge Estefano).
-
-* 💻 **LBMG | UFRN — Laboratório de Biologia Molecular e Genômica**  
-  *Fev/2024 – Dez/2024* • **Suporte Técnico e Desenvolvimento Web** (Natal/RN)  
-  * Desenvolvimento web institucional com PHP, Laravel e JavaScript, além de manutenção de computadores e infraestrutura local.
-
-* 🛠️ **AQUATEC Ltda. & Teleperformance**  
-  *2020 – 2022* • **Estágio Técnico de TI (IFRN) & Atendimento Técnico** (RN)  
-  * Suporte a computadores e redes, rotinas operacionais em banco de dados e atendimento técnico.
-
----
-
-### 💻 Arsenal Tecnológico
+### 💻 Vitrine Tecnológica (Tech Stack)
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,flask,docker,redis,postgres,mysql,r,bash,git,linux,tensorflow&theme=dark" width="100%" />
+#### 🧠 Inteligência Artificial & Ciência de Dados
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,r&theme=dark" height="48" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/LangGraph-FF6F00?style=flat-square&logo=gitbook&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/ChromaDB-FC521F?style=flat-square" />
+  <img src="https://img.shields.io/badge/FastEmbed-1E293B?style=flat-square" />
+  <img src="https://img.shields.io/badge/Nextflow-00C49F?style=flat-square" />
+</p>
 
-<br/>
+#### ⚡ Backend, APIs & Microsserviços
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=fastapi,flask,php,js,java&theme=dark" height="48" />
+</p>
 
-| Categoria | Tecnologias |
-| :--- | :--- |
-| **Inteligência Artificial** | LangChain, LangGraph, RAG, ChromaDB, FastEmbed, Keras/TensorFlow, FastText, NLTK, APIs LLMs |
-| **Back-end & APIs** | Python (FastAPI, Flask-RESTX), Java (fundamentos Spring Boot / POO), PHP (Laravel), RESTful, SQLAlchemy |
-| **Bancos de Dados & Cache** | MySQL, PostgreSQL, Oracle DB, Redis (cache/sessão), ChromaDB (vetorial), modelagem e SQL |
-| **Pipelines & DevOps** | Docker, Docker Compose, Nextflow, Apache Airflow, Linux/Bash, Git/GitHub, Argo CD, Harbor |
+#### 🗄️ Bancos de Dados & Cache
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,redis&theme=dark" height="48" />
+  <img src="https://img.shields.io/badge/Oracle_DB-F80000?style=flat-square&logo=oracle&logoColor=white" />
+</p>
+
+#### 🛠️ DevOps, Infraestrutura & Ferramentas
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,bash,vscode&theme=dark" height="48" />
+</p>
 
 </div>
 
 ---
 
-### 🎓 Formação Acadêmica
+### 💼 Experiência & Trajetória
 
-* 🎓 **Bacharelado em Tecnologia da Informação** — *Instituto Metrópole Digital (IMD / UFRN)* | Fev/2024 – Em andamento
-* 💻 **Técnico em Tecnologia da Informação** — *Instituto Federal do RN (IFRN)* | Fev/2017 – Dez/2021 (Integrado)
+* 🏛️ **SEFAZ | RN — Secretaria de Estado da Tributação**  
+  `Fev/2026 – Presente` • **Estagiário em Ciência de Dados e Inteligência Artificial** (Natal/RN)  
+  * Desenvolvimento de soluções de IA, automação de processos e sistemas multiagentes com **LangGraph** e **RAG/ChromaDB**.
+  * Construção de microsserviços RESTful com **FastAPI, Flask-RESTX**, sessão em **Redis** e deploy com **Docker Compose**.
+
+* 🧬 **BioME | UFRN — Laboratório de Bioinformática**  
+  `Set/2025 – Ago/2026` • **Bolsista PIBIC / PROPESQ** (Natal/RN)  
+  * Análise de transcriptômica (*RNA-seq*) e redes biológicas, desenvolvendo pipelines reprodutíveis em **Nextflow**, **R** e **Shell** (Orientador: Prof. Rodrigo Dalmolin).
+
+* 🧬 **BioME | UFRN — Laboratório de Bioinformática**  
+  `Jun/2024 – Jan/2025` • **Bolsista PIBIC / PROPESQ** (Natal/RN)  
+  * Apoio no estabelecimento e manutenção de ambientes computacionais e ferramentas para bioinformática (Orientador: Prof. Jorge Estefano).
+
+* 💻 **LBMG | UFRN — Laboratório de Biologia Molecular e Genômica**  
+  `Fev/2024 – Dez/2024` • **Suporte Técnico e Desenvolvimento Web** (Natal/RN)  
+  * Desenvolvimento web com PHP/Laravel e JavaScript, além de infraestrutura de redes e computadores.
+
+* 🛠️ **AQUATEC Ltda. & Teleperformance**  
+  `2020 – 2022` • **Estágio Técnico de TI (IFRN) & Suporte** (RN)
 
 ---
 
@@ -138,6 +151,6 @@
 <br/><br/>
 
 <!-- FOOTER HERO WAVE -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,40:1e3a8a,100:2563eb&height=90&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,45:1d4ed8,100:2563eb&height=90&section=footer" width="100%"/>
 
 </div>
