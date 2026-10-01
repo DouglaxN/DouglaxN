@@ -16,7 +16,6 @@
 
 ### ✦ Sobre Mim
 
-```yaml
 atual:
   cargo: "Estagiário em Ciência de Dados e IA na SEFAZ-RN"
   pesquisa: "Bolsista PIBIC em Bioinformática no BioME / UFRN"
@@ -27,7 +26,6 @@ interesses:
   - "Pipelines RAG & Bases Vetoriais (ChromaDB)"
   - "Bioinformática & Dados Transcriptômicos (Nextflow, RNA-seq)"
   - "Microsserviços REST escaláveis com Docker"
-```
 
 ---
 
