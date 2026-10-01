@@ -1,103 +1,120 @@
 <div align="center">
 
 # DOUGLAS NUNES DA SILVA
-### `Software & Data Engineer` • `AI Multi-Agent Systems` • `Bioinformatics`
+### Discente de Tecnologia da Informação — `IMD / UFRN`
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/douglas-nunes-da-silva)
+[![Lattes](https://img.shields.io/badge/Lattes-8276138975780850-003366?style=flat-square&logo=academia&logoColor=white)](http://lattes.cnpq.br/8276138975780850)
+[![Portfolio](https://img.shields.io/badge/Curriculum_Online-2563EB?style=flat-square&logo=googlechrome&logoColor=white)](https://douglaxn.github.io/curriculo)
+[![Email](https://img.shields.io/badge/Email-douglas.nunes.132@ufrn.edu.br-0f172a?style=flat-square&logo=gmail&logoColor=white)](mailto:douglas.nunes.132@ufrn.edu.br)
 
 <p align="center">
-  <a href="https://linkedin.com/in/douglas-nunes-da-silva"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="http://lattes.cnpq.br/8276138975780850"><img src="https://img.shields.io/badge/Currículo_Lattes-003366?style=flat-square&logo=academia&logoColor=white" /></a>
-  <a href="https://douglaxn.github.io/curriculo"><img src="https://img.shields.io/badge/Live_Portfolio_(CV)-2563EB?style=flat-square&logo=googlechrome&logoColor=white" /></a>
-  <a href="mailto:douglas.nunes.132@ufrn.edu.br"><img src="https://img.shields.io/badge/Email-douglas.nunes.132@ufrn.edu.br-0f172a?style=flat-square&logo=gmail&logoColor=white" /></a>
-</p>
-
-<p align="center">
-  <sub>📍 Natal, RN — Brasil • 🎓 Discente de Tecnologia da Informação (IMD / UFRN) • 💻 Técnico em TI (IFRN)</sub>
+  <sub>📍 Natal/RN • 💻 GitHub: <a href="https://github.com/DouglaxN">DouglaxN</a> • 🎓 UFRN / IFRN</sub>
 </p>
 
 </div>
 
 ---
 
-> ### 📋 Resumo Executivo
-> Graduando em Tecnologia da Informação (IMD/UFRN) e Técnico em TI pelo IFRN. Atuo como **Estagiário em Ciência de Dados e IA na SEFAZ-RN**, desenvolvendo arquiteturas de microsserviços multiagentes com **LangGraph**, sistemas de busca semântica **RAG** e APIs em Python com **Docker**. Como **Pesquisador de Iniciação Científica (PIBIC) no BioME/UFRN**, construo pipelines reprodutíveis em **Nextflow** e **R** para análise de dados transcriptômicos (*RNA-seq*) em larga escala. Foco em arquitetura de software resiliente, padrões de projeto e engenharia de dados.
+### 📋 Sobre Mim
+
+> [!NOTE]
+> Estudante de graduação em Tecnologia da Informação (IMD/UFRN) e Técnico em TI pelo IFRN. Realizo pesquisa em Bioinformática voltada para ciência de dados biológicos e análise de dados transcriptômicos. Tenho experiência em análise de dados com R e Python. Atualmente, atuo como estagiário em Ciência de Dados e IA na Secretaria de Estado da Tributação (SEFAZ-RN), desenvolvendo arquiteturas multiagentes (LangGraph, LangChain), sistemas de busca semântica RAG e microsserviços REST em Python com Docker.
 
 ---
 
-### 🏛️ Projetos & Arquiteturas em Destaque
+### 💼 Experiência Profissional e de Pesquisa
+
+#### 🏛️ **SEFAZ | RN — Secretaria de Estado da Tributação**
+*Fev/2026 – Presente* • **Estagiário em Ciência de Dados e Inteligência Artificial** (Natal/RN)
+* Atuação no desenvolvimento de soluções de Inteligência Artificial, automação de processos e análise de dados.
+* Construção de arquiteturas multiagentes e sistemas RAG (*Retrieval-Augmented Generation*) para consulta e gestão da informação utilizando **Python, LangGraph, LangChain** e banco vetorial **ChromaDB**.
+* Desenvolvimento de microsserviços e APIs RESTful com **Flask-RESTX e FastAPI**, documentação OpenAPI/Swagger e controle de sessão distribuída em **Redis**.
+* Containerização e padronização de ambientes com **Docker e Docker Compose**, controle de versão via **Git/GitHub** e práticas de testes de software.
+
+#### 🧬 **BioME | UFRN — Laboratório de Bioinformática**
+*Set/2025 – Ago/2026* • **Bolsista de Iniciação Científica (PIBIC / PROPESQ)** (Natal/RN)
+* **Projeto PIA21320-2023:** Análise de transcriptômica (*RNA-seq*) e análise de redes, desenvolvendo pipelines em Nextflow, scripts em R e Shell para automação (Orientador: Prof. Rodrigo Dalmolin).
+
+#### 🧬 **BioME | UFRN — Laboratório de Bioinformática**
+*Jun/2024 – Jan/2025* • **Bolsista de Iniciação Científica (PIBIC / PROPESQ)** (Natal/RN)
+* **Projeto PIT20207-2022:** Apoio no estabelecimento e manutenção de ambientes computacionais e ferramentas para pesquisa em bioinformática (Orientador: Prof. Jorge Estefano).
+
+#### 💻 **LBMG | UFRN — Laboratório de Biologia Molecular e Genômica**
+*Fev/2024 – Dez/2024* • **Suporte Técnico e Desenvolvimento Web** (Natal/RN)
+* Desenvolvimento e manutenção do site e aplicações do laboratório utilizando PHP, Laravel e JavaScript.
+* Montagem, instalação e manutenção preventiva e corretiva de computadores, além de suporte básico a usuários.
+
+#### 🛠️ **AQUATEC Ltda. & Teleperformance**
+*2020 – 2022* • **Estágio Técnico de TI (IFRN) & Atendimento Técnico** (RN)
+* Suporte a computadores e redes, acompanhamento de rotinas em banco de dados e atendimento técnico com foco em resolução de chamados.
+
+---
+
+### 🚀 Projetos Desenvolvidos
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h4>🤖 Ecossistema Multiagentes de IA — SEFAZ-RN</h4>
-      <p>Arquitetura corporativa desacoplada utilizando padrões <i>Facade</i> e <i>Factory</i>, com grafos de estados finitos (<b>LangGraph</b>), memória distribuída em <b>Redis</b> e observabilidade de tokens via <b>MLflow</b>:</p>
-      <ul>
-        <li><b>Agente Sofia:</b> Atendimento a postos fiscais via Telegram com leitura de QR Code em documentos fiscais e conversão de áudio.</li>
-        <li><b>Agente Odin:</b> Agente operacional no Mattermost com chamadas de ferramentas (<i>tool-calling</i>) para busca automatizada de chamados e processos.</li>
-        <li><b>Agente Talita:</b> Assistente virtual do Portal UVT para dúvidas tributárias com RAG semântico e direcionamento ao Fale Conosco.</li>
-      </ul>
-      <p>
-        <code>LangGraph</code> • <code>LangChain</code> • <code>ChromaDB</code> • <code>Redis</code> • <code>Docker</code>
-      </p>
+    <td width="33%" valign="top">
+      <h4>Agente Sofia</h4>
+      <p>Atendimento a motoristas em postos fiscais via Telegram (texto, leitura de QR Code em notas e áudio).</p>
+      <code>Telegram</code> <code>QR Code</code> <code>LangGraph</code> <code>Docker</code>
     </td>
-    <td width="50%" valign="top">
-      <h4>🧬 Pipelines de Transcriptômica — BioME / UFRN</h4>
-      <p>Processamento e mineração computacional de dados biológicos de sequenciamento em larga escala e reconstrução de redes regulatórias:</p>
-      <ul>
-        <li>Desenvolvimento de pipelines automatizados e escaláveis em <b>Nextflow</b> para clusters de alta performance (HPC/Linux).</li>
-        <li>Controle de qualidade, alinhamento e análise de expressão gênica diferencial (*RNA-seq*) em <b>R</b> e <b>Shell Script</b>.</li>
-        <li>Dois ciclos formais de pesquisa (PIBIC/PROPESQ) sob orientação dos professores do BioME/IMD.</li>
-      </ul>
-      <p>
-        <code>Nextflow</code> • <code>R</code> • <code>Linux HPC</code> • <code>RNA-seq</code> • <code>Bash</code>
-      </p>
+    <td width="33%" valign="top">
+      <h4>Agente Odin</h4>
+      <p>Suporte a servidores via Mattermost com buscas automáticas de chamados e processos via <i>tool-calling</i>.</p>
+      <code>Mattermost</code> <code>Tool-Calling</code> <code>Citsmart</code> <code>Docker</code>
+    </td>
+    <td width="33%" valign="top">
+      <h4>Agente Talita</h4>
+      <p>Assistente do Portal UVT para dúvidas sobre notas e ICMS com RAG e direcionamento ao Fale Conosco.</p>
+      <code>Portal UVT</code> <code>RAG</code> <code>ChromaDB</code> <code>LangGraph</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <h4>Sistema Agentes IA</h4>
+      <p>Arquitetura em microsserviços usando padrões <b>Facade</b> e <b>Factory</b>, grafos LangGraph com fallback resiliente e Redis.</p>
+      <code>Microsserviços</code> <code>LangGraph</code> <code>Redis</code> <code>MLflow</code>
+    </td>
+    <td width="33%" valign="top">
+      <h4>API Talita (Motor NLP)</h4>
+      <p>Microsserviço com rede neural (Keras/TensorFlow) e normalização de texto para classificar intenções.</p>
+      <code>TensorFlow</code> <code>Keras</code> <code>NLTK</code> <code>Flask</code>
+    </td>
+    <td width="33%" valign="top">
+      <h4>API Caixa de Entrada</h4>
+      <p>Pipeline para limpeza de dados e classificação automática de mensagens do canal Fale Conosco com FastText.</p>
+      <code>FastText</code> <code>Pandas</code> <code>Pipeline</code> <code>Flask</code>
     </td>
   </tr>
 </table>
 
 ---
 
-### ⚡ Microsserviços & Engenharia de Dados
+### 🛠️ Habilidades Técnicas
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>💬 API Talita — Motor de NLP</h4>
-      <p>Microsserviço REST sob arquitetura MSC (<i>Model-Service-Controller</i>) com modelo de rede neural profunda (<b>Keras/TensorFlow</b>) e normalização de texto para triagem e classificação de intenções.</p>
-      <p><code>Python</code> • <code>TensorFlow</code> • <code>Flask-RESTX</code> • <code>NLTK</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h4>📥 API Caixa de Entrada — Pipeline Fale Conosco</h4>
-      <p>Pipeline de engenharia de dados com sanitização textual, remoção de ruídos e motor de inferência rápida em <b>FastText</b> para classificação automática de demandas tributárias.</p>
-      <p><code>FastText</code> • <code>Pandas</code> • <code>Flask</code> • <code>Docker</code></p>
-    </td>
-  </tr>
-</table>
-
----
-
-### 💻 Habilidades & Competências Técnicas
-
-| Área | Competências |
+| Categoria | Competências |
 | :--- | :--- |
-| **Inteligência Artificial & LLMs** | LangGraph (StateGraph, Tool-Calling), LangChain, RAG, ChromaDB, FastEmbed, Keras/TensorFlow, FastText, NLTK, APIs OpenAI e DeepSeek |
-| **Back-end & Microsserviços** | Python (FastAPI, Flask-RESTX), Java (Fundamentos Spring Boot / POO), PHP (Laravel), Padrão RESTful, JSON, SQLAlchemy |
-| **Bancos de Dados & Cache** | PostgreSQL, MySQL, Oracle DB, Redis (cache e sessão distribuída), ChromaDB (vetorial), modelagem e consultas SQL |
-| **DevOps & Pipelines** | Docker, Docker Compose, Git / GitHub (Git Flow, code reviews), Linux/Bash, Nextflow, Apache Airflow, Argo CD, Harbor |
-| **Metodologias & Práticas** | Padrões de Projeto (GoF: Facade, Factory, MSC), Metodologias Ágeis (Scrum, Kanban), Testes de Software, Clean Code |
+| **Programação** | Python (FastAPI, Flask), R, PHP (Laravel), SQL, Java (básico) |
+| **Inteligência Artificial** | LangChain, LangGraph, RAG, ChromaDB, Keras/TensorFlow, FastText, NLTK, APIs de LLMs |
+| **Web & Front-end** | HTML, CSS, Bootstrap, JavaScript, noções de React |
+| **Ferramentas & DevOps** | Git/GitHub, Docker, Docker Compose, Linux/Bash, Argo CD, Harbor, Kubernetes |
+| **Pipelines & Métodos** | Nextflow, Airflow, Metodologias Ágeis (Scrum, Kanban) |
+| **Bancos de Dados** | MySQL, PostgreSQL, Oracle DB, Redis (cache e sessão), ChromaDB (vetorial), modelagem e consultas SQL |
 
 ---
 
-### ⚙️ Princípios de Engenharia
+### 🎓 Formação Acadêmica
 
-1. **Arquitetura antes de scripts:** Uso de máquinas de estados explícitas, desacoplamento de responsabilidades e *fallbacks* resilientes em vez de monolitos frágeis.
-2. **Reprodutibilidade por design:** Ambientes conteinerizados com Docker e pipelines determinísticos com Nextflow para garantir que o código rode igual em qualquer máquina ou cluster.
-3. **Segurança e Privacidade:** Aplicação de *guardrails* na borda e anonimização preventiva de dados sensíveis sob as diretrizes da LGPD.
+* 🎓 **Bacharelado em Tecnologia da Informação** — *Instituto Metrópole Digital (IMD / UFRN)* | Fev/2024 – Em andamento
+* 💻 **Técnico em Tecnologia da Informação** — *Instituto Federal do RN (IFRN)* | Fev/2017 – Dez/2021 (Integrado)
 
 ---
 
 <div align="center">
 
-### 📊 Atividade & Contribuições
+### 📊 Atividade no GitHub
 
 <p align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=DouglaxN&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
