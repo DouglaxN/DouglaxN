@@ -1,6 +1,6 @@
 <!-- CABEÇALHO OBSIDIAN & ELECTRIC BLUE (IDENTIDADE DO SITE) -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:070b14,40:0e1526,100:1d4ed8&height=200&section=header&text=Douglas%20Nunes%20da%20Silva&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Intelig%C3%AAncia%20Artificial%20%7C%20Engenharia%20de%20Plataforma%20%7C%20Bioinform%C3%A1tica&descSize=15&descAlignY=58&descAlign=50"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:070b14,40:0e1526,100:1d4ed8&height=200&section=header&text=Douglas%20Nunes%20da%20Silva&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Intelig%C3%AAncia%20Artificial%20%7C%20Engenharia%20de%20Software%20%7C%20Bioinform%C3%A1tica&descSize=15&descAlignY=58&descAlign=50"/>
 </div>
 
 <!-- BARRA DE STATUS & LOCALIZAÇÃO (RÉPLICA DO SEU SITE) -->
